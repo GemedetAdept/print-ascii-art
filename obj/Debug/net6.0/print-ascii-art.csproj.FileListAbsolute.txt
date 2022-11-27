@@ -1,0 +1,15 @@
+C:\Users\vivian.zitek\Programming\cSharp\print-ascii-art\bin\Debug\net6.0\print-ascii-art.exe
+C:\Users\vivian.zitek\Programming\cSharp\print-ascii-art\bin\Debug\net6.0\print-ascii-art.deps.json
+C:\Users\vivian.zitek\Programming\cSharp\print-ascii-art\bin\Debug\net6.0\print-ascii-art.runtimeconfig.json
+C:\Users\vivian.zitek\Programming\cSharp\print-ascii-art\bin\Debug\net6.0\print-ascii-art.dll
+C:\Users\vivian.zitek\Programming\cSharp\print-ascii-art\bin\Debug\net6.0\ref\print-ascii-art.dll
+C:\Users\vivian.zitek\Programming\cSharp\print-ascii-art\bin\Debug\net6.0\print-ascii-art.pdb
+C:\Users\vivian.zitek\Programming\cSharp\print-ascii-art\obj\Debug\net6.0\print-ascii-art.csproj.AssemblyReference.cache
+C:\Users\vivian.zitek\Programming\cSharp\print-ascii-art\obj\Debug\net6.0\print-ascii-art.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivian.zitek\Programming\cSharp\print-ascii-art\obj\Debug\net6.0\print-ascii-art.AssemblyInfoInputs.cache
+C:\Users\vivian.zitek\Programming\cSharp\print-ascii-art\obj\Debug\net6.0\print-ascii-art.AssemblyInfo.cs
+C:\Users\vivian.zitek\Programming\cSharp\print-ascii-art\obj\Debug\net6.0\print-ascii-art.csproj.CoreCompileInputs.cache
+C:\Users\vivian.zitek\Programming\cSharp\print-ascii-art\obj\Debug\net6.0\print-ascii-art.dll
+C:\Users\vivian.zitek\Programming\cSharp\print-ascii-art\obj\Debug\net6.0\ref\print-ascii-art.dll
+C:\Users\vivian.zitek\Programming\cSharp\print-ascii-art\obj\Debug\net6.0\print-ascii-art.pdb
+C:\Users\vivian.zitek\Programming\cSharp\print-ascii-art\obj\Debug\net6.0\print-ascii-art.genruntimeconfig.cache
